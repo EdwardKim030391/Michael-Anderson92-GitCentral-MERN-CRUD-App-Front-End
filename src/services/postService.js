@@ -1,7 +1,7 @@
 // frontend/services/postService.js
 import { getToken } from './tokenService';
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://gitcentralbackend-5cc42bcc3266.herokuapp.com';
 
 // Helper function to build headers with token
 const getHeaders = () => {
