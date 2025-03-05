@@ -1,5 +1,5 @@
 ## 📱The GitCentral
-#### Created byMichael Anderson(Project Manager), Merley Haddis(Backend), Edward Kim(Frontend)
+#### Created by Michael Anderson(Project Manager), Merley Haddis(Backend), Edward Kim(Frontend)
 
 ## 🚀Discription
 **GitCentral** - Your home for dev-dialogue! [Click here](https://
@@ -9,10 +9,9 @@
 ## 📸Screenshots
   |   Description | Screenshot |
   |:-------------:| -----------|
-  | <h3>Landing Page</h3> | ![screenshot1]()
-  | <h3>SignUp Page</h3> | ![screenshot2]()
-  | <h3>DashBoard</h3> | ![screenshot3]()
-  | <h3>TopicBoard</h3> | ![screenshot4]()
+  | <h3>Landing Page</h3> | ![screenshot1](https://github.com/EdwardKim030391/Michael-Anderson92-GitCentral-MERN-CRUD-App-Front-End/blob/edward_frontlast/readmeImage/landing.png)
+  | <h3>DashBoard</h3> | ![screenshot3](https://github.com/EdwardKim030391/Michael-Anderson92-GitCentral-MERN-CRUD-App-Front-End/blob/edward_frontlast/readmeImage/dash.png)
+  | <h3>TopicBoard</h3> | ![screenshot4](https://github.com/EdwardKim030391/Michael-Anderson92-GitCentral-MERN-CRUD-App-Front-End/blob/edward_frontlast/readmeImage/post.png)
 
 
 ## 📍Features
@@ -23,9 +22,6 @@
 ### ✅ Forum & Discussion
 - **Create, edit, and delete** forum posts and comments.
 - Like posts and interact with other users.
-
-### ✅ Hot Topics
-- A dedicated **"Hot Topics"** section that highlights the most liked discussions.
 
 ### ✅ User Profiles
 - View your own **posts and forums** in your profile.
